@@ -1,1 +1,1 @@
-This is a test for GPG
+This is a test for GPG v2
